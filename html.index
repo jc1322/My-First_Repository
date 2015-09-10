@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Document</title>
+    </head>
+    <body>
+       <header>
+        
+        <img src="images/Sixteen---LOGO.png" alt="sixteen" style="width:70px;height:23px;">
+           
+            
+             </header>
+      
+      <section>
+          <h1>WE ARE SIXTEEN DIGITAL AGENCY</h1>
+      <h2>Based on  Jakarta, Indonesia</h2>
+      
+       <img src="images/siluet.png" alt="Silhouette" style="width:360px;height:69px;"/>
+        </section>
+        
+        <img src="images/iphone.png" alt="iphone" style="width:78px;height:207px;"/>
+        
+        <header>WHO WE ARE</header>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugit quam in omnis voluptates, optio architecto doloremque eius, nihil, error nemo cum ad consequuntur numquam saepe quibusdam nam dolore sunt aliquam. Modi, ut error voluptas iure, nemo, est.</p>
+        <button>Learn More</button>
+        
+        
+      
+       
+        
+    </body>
+</html>

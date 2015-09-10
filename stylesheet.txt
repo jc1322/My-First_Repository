@@ -1,0 +1,125 @@
+##HEADER
+width: 360px;
+height: 40px;
+color:#acd373
+top:0px
+background color:#acd373
+
+
+
+##SIXTEEN LOGO
+width: 70px;
+height: 23px;
+color:#f7f7f7
+font:ThirstyRoughReg
+font-size:21px
+top:8px
+left:30px
+right:260px
+
+Padding of 34x
+
+##WE ARE SIXTEEN AGENGY
+width: 360px;
+height: 350px;
+background color:#9abd67
+font:'Source Sans Pro'
+font-size:20px
+font-color:#f7f7f7
+Horizontally centered
+top:165px
+left:34px
+
+
+
+##SILHOUETTE
+width: 360px;
+height: 69px;
+background color:#9abd67
+top:321px
+left:0px
+
+##IPHONE
+width: 78px;
+height: 207px;
+Horizontally centered
+Padding of 141px
+top:433px
+left:141px
+background color:#f7f7f7
+
+##WHO WE ARE
+width: 97px;
+height: 12px;
+top:685px
+left:67px
+right:196px
+font:'Source Sans Pro'
+font-size:33px
+font-color:#454545
+
+##WWA PARAGRAPH
+width: 298px;
+height: 60px;
+top:728px
+left:29px
+right:29px
+font:'Source Sans Pro'
+font-size:13px
+font-color:#454545
+
+##LEARN MORE
+width: 62px;
+height: 8px;
+top:824px
+left:43px
+right:255px
+font:DroidSerif
+font-size:11px
+font-color:#acd473
+
+
+##VIDEO
+width: 360px;
+height: 261px;
+top:890px
+left:0px
+background color:rgba(52, 59, 69, 0.7)
+
+Padding of 126px
+
+
+##PAINTBRUSH
+width: 36px;
+height: 61px
+top:1281px
+right:283px
+left:41px
+
+##CELL PHONE
+width: 35px;
+height: 59px;
+top:1372px
+right:285px
+left:40px
+
+##MONITOR
+width: 42px;
+height: 48px;
+top:1475px
+right:276px
+left:42px
+
+
+##MEET OUR AMAZING TEAM
+width: 194px;
+height: 12px;
+top: 1697px;
+left:86px
+right:80px
+font:'Source Sans Pro'
+font-size:29.54px
+font-color:#f7f7f7
+background-color:#acd373
+
+
